@@ -88,7 +88,7 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 Have questions or suggestions? Open an **issue** or reach out!
 
-💻 **GitHub Repository**: [Your Repo Link Here]
+💻 **Email**: [saadaibani3@gmail.com]
 
 ---
 
